@@ -1,0 +1,23 @@
+{
+  "name": "genpark-agentic-commerce-saas-magic-number-cac-payback-unit-economics-skill",
+  "version": "1.0.0",
+  "description": "Enterprise SaaS Magic Number, CAC Payback Period (months), LTV:CAC and gross margin burn multiple evaluator.",
+  "category": "agentic_commerce",
+  "author": "GenPark AI",
+  "website": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "main": "skills.py",
+  "tools": [
+    {
+      "name": "evaluate_saas_unit_economics",
+      "description": "Enterprise SaaS Magic Number, CAC Payback Period (months), LTV:CAC and gross margin burn multiple evaluator.",
+      "sample_input": {
+        "prior_qtr_arr": 8000000.0,
+        "current_qtr_arr": 9200000.0,
+        "prior_qtr_sm_expense": 1100000.0,
+        "gross_margin_pct": 78.0,
+        "average_monthly_churn_pct": 0.65
+      }
+    }
+  ]
+}
