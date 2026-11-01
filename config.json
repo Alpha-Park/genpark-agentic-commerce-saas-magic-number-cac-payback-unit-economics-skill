@@ -1,0 +1,7 @@
+{
+  "engine": "genpark-mcp-kernel-v1",
+  "skill_id": 350,
+  "skill_name": "genpark-agentic-commerce-saas-magic-number-cac-payback-unit-economics-skill",
+  "vendor": "GenPark AI",
+  "endpoint": "https://www.genpark.ai/api/v1/skills"
+}
